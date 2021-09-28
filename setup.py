@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='pystrategy_test_py',
-    version="0.0.2",
+    version="1.0.0",
     author = 'Francisco A. Prieto Rodriguez, Francisco de Asís Fernández Navarro, David Becerra Alonso',
     description = 'Evaluation of strategies portfolios',
     url = 'https://github.com/faprieto96/pystrategy_test_py',
