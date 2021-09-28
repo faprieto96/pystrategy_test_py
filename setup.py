@@ -9,7 +9,7 @@ except(IOError, ImportError):
 
 setuptools.setup(
     name='pystrategy_test_py',
-    version="1.0.8",
+    version="1.0.9",
     author = 'Francisco A. Prieto Rodriguez, Francisco de Asís Fernández Navarro, David Becerra Alonso',
     description = long_description,
     long_description_content_type= 'text/markdown',
